@@ -1,0 +1,215 @@
+<?xml version="1.0"?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+
+
+
+  <channel>
+    <title>Weather Conditions : Clahane, Clare, Ireland</title>
+    <link></link>
+    <description>Current conditions, and daily, monthly, and yearly summaries</description>
+    <language>"en"</language>
+    <pubDate>Fri, 16 Dec 2022 18:30:00 GMT</pubDate>
+
+    <lastBuildDate>Fri, 16 Dec 2022 18:30:00 GMT</lastBuildDate>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <generator>weewx 4.9.1</generator>
+    <ttl>30.0 minutes</ttl>
+
+    <item>
+      <title>Weather Conditions at 16/12/22 18:30:00</title>
+      <link></link>
+      <description>
+        Outside Temperature: 4.4&#176;C;
+        Inside Temperature: 17.8&#176;C;
+        Barometer: 1013.1 mbar;
+        Wind: 21 km/h from 158&#176;;
+        Rain: 0.00 cm;
+        Rain Rate: 0.00 cm/h;
+        Wind Chill: 0.2&#176;C;
+        Heat Index: 4.4&#176;C;
+        Dew Point: 2.7&#176;C;
+        Outside Humidity: 89%;
+        Inside Humidity: 62%;
+      </description>
+      <pubDate>Fri, 16 Dec 2022 18:30:00 GMT</pubDate>
+      <geo:lat>52.935121</geo:lat>
+      <geo:long>-9.417197</geo:long>
+      <content:encoded><![CDATA[
+      <p>
+      Time: 16/12/22 18:30:00<br/>
+        Outside Temperature: 4.4&#176;C<br/>
+        Inside Temperature: 17.8&#176;C<br/>
+        Barometer: 1013.1 mbar<br/>
+        Wind: 21 km/h from 158&#176;;
+        Rain: 0.00 cm<br/>
+        Rain Rate: 0.00 cm/h<br/>
+        Wind Chill: 0.2&#176;C<br/>
+        Heat Index: 4.4&#176;C<br/>
+        Dew Point: 2.7&#176;C<br/>
+        Outside Humidity: 89%<br/>
+        Inside Humidity: 62%<br/>
+      </p>
+      ]]></content:encoded>
+    </item>
+
+    <item>
+      <title>Daily summary as of 16/12/22 18:30:00</title>
+      <link></link>
+      <description>
+        Min Outside Temperature: -3.7&#176;C at 07:33:33;
+        Max Outside Temperature: 5.4&#176;C at 16:53:02;
+        Min Inside Temperature: 15.8&#176;C at 09:02:01;
+        Max Inside Temperature: 19.4&#176;C at 16:27:02;
+        Min Barometer: 1012.8 mbar at 17:28:04;
+        Max Barometer: 1017.1 mbar at 00:00:05;
+        Max Wind: 45 km/h from 178&#176; at 14:32:33;
+        Rain: 0.48 cm;
+        Max Rain Rate: 1.60 cm/h;
+        Min Wind Chill: -7.6&#176;C at 07:45:35;
+        Max Wind Chill: 4.6&#176;C at 15:24:59;
+        Min Heat Index: -3.7&#176;C at 07:33:33;
+        Max Heat Index: 4.4&#176;C at 12:55:55;
+        Min Dew Point: -5.3&#176;C at 07:33:33;
+        Max Dew Point: 3.8&#176;C at 16:53:02;
+        Min Outside Humidity: 85% at 13:25:05;
+        Max Outside Humidity: 91% at 10:50:29;
+        Min Inside Humidity: 58% at 00:00:05;
+        Max Inside Humidity: 67% at 15:12:01;
+      </description>
+      <pubDate>Fri, 16 Dec 2022 18:30:00 GMT</pubDate>
+      <geo:lat>52.935121</geo:lat>
+      <geo:long>-9.417197</geo:long>
+      <content:encoded><![CDATA[
+      <p>
+      Daily summary as of 16 Dec 2022<br/>
+        Min Outside Temperature: -3.7&#176;C at 07:33:33<br/>
+        Max Outside Temperature: 5.4&#176;C at 16:53:02<br/>
+        Min Inside Temperature: 15.8&#176;C at 09:02:01<br/>
+        Max Inside Temperature: 19.4&#176;C at 16:27:02<br/>
+        Min Barometer: 1012.8 mbar at 17:28:04<br/>
+        Max Barometer: 1017.1 mbar at 00:00:05<br/>
+        Max Wind: 45 km/h from 178&#176; at 14:32:33<br/>
+        Rain: 0.48 cm<br/>
+        Max Rain Rate: 1.60 cm/h<br/>
+        Min Wind Chill: -7.6&#176;C at 07:45:35<br/>
+        Max Wind Chill: 4.6&#176;C at 15:24:59<br/>
+        Min Heat Index: -3.7&#176;C at 07:33:33<br/>
+        Max Heat Index: 4.4&#176;C at 12:55:55<br/>
+        Min Dew Point: -5.3&#176;C at 07:33:33<br/>
+        Max Dew Point: 3.8&#176;C at 16:53:02<br/>
+        Min Outside Humidity: 85% at 13:25:05<br/>
+        Max Outside Humidity: 91% at 10:50:29<br/>
+        Min Inside Humidity: 58% at 00:00:05<br/>
+        Max Inside Humidity: 67% at 15:12:01<br/>
+      </p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Monthly summary as of 16/12/22 18:30:00</title>
+      <link></link>
+      <description>
+        Min Outside Temperature: -4.2&#176;C at 12/12/22 00:45:41;
+        Max Outside Temperature: 11.5&#176;C at 01/12/22 02:10:28;
+        Min Inside Temperature: 13.4&#176;C at 11/12/22 07:47:00;
+        Max Inside Temperature: 23.6&#176;C at 15/12/22 14:34:01;
+        Min Barometer: 1003.4 mbar at 12/12/22 14:56:03;
+        Max Barometer: 1028.2 mbar at 06/12/22 22:50:02;
+        Max Wind: 45 km/h from 178&#176; at 16/12/22 14:32:33;
+        Rain: 0.88 cm;
+        Max Rain Rate: 1.60 cm/h;
+        Min Wind Chill: -10.1&#176;C at 12/12/22 19:04:01;
+        Max Wind Chill: 11.5&#176;C at 01/12/22 02:10:28;
+        Min Heat Index: -4.2&#176;C at 12/12/22 00:45:41;
+        Max Heat Index: 11.0&#176;C at 01/12/22 02:10:28;
+        Min Dew Point: -5.7&#176;C at 12/12/22 00:45:41;
+        Max Dew Point: 9.7&#176;C at 01/12/22 02:10:28;
+        Min Outside Humidity: 80% at 01/12/22 17:17:24;
+        Max Outside Humidity: 92% at 10/12/22 11:14:10;
+        Min Inside Humidity: 49% at 13/12/22 15:22:01;
+        Max Inside Humidity: 74% at 02/12/22 10:00:00;
+      </description>
+      <pubDate>Fri, 16 Dec 2022 18:30:00 GMT</pubDate>
+      <geo:lat>52.935121</geo:lat>
+      <geo:long>-9.417197</geo:long>
+      <content:encoded><![CDATA[
+      <p>
+      Monthly summary as of 01 Dec 2022<br/>
+        Min Outside Temperature: -4.2&#176;C at 12/12/22 00:45:41<br/>
+        Max Outside Temperature: 11.5&#176;C at 01/12/22 02:10:28<br/>
+        Min Inside Temperature: 13.4&#176;C at 11/12/22 07:47:00<br/>
+        Max Inside Temperature: 23.6&#176;C at 15/12/22 14:34:01<br/>
+        Min Barometer: 1003.4 mbar at 12/12/22 14:56:03<br/>
+        Max Barometer: 1028.2 mbar at 06/12/22 22:50:02<br/>
+        Max Wind: 45 km/h from 178&#176; at 16/12/22 14:32:33<br/>
+        Rain: 0.88 cm<br/>
+        Max Rain Rate: 1.60 cm/h<br/>
+        Min Wind Chill: -10.1&#176;C at 12/12/22 19:04:01<br/>
+        Max Wind Chill: 11.5&#176;C at 01/12/22 02:10:28<br/>
+        Min Heat Index: -4.2&#176;C at 12/12/22 00:45:41<br/>
+        Max Heat Index: 11.0&#176;C at 01/12/22 02:10:28<br/>
+        Min Dew Point: -5.7&#176;C at 12/12/22 00:45:41<br/>
+        Max Dew Point: 9.7&#176;C at 01/12/22 02:10:28<br/>
+        Min Outside Humidity: 80% at 01/12/22 17:17:24<br/>
+        Max Outside Humidity: 92% at 10/12/22 11:14:10<br/>
+        Min Inside Humidity: 49% at 13/12/22 15:22:01<br/>
+        Max Inside Humidity: 74% at 02/12/22 10:00:00<br/>
+      </p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Yearly summary as of 16/12/22 18:30:00</title>
+      <link></link>
+      <description>
+        Min Outside Temperature: -4.2&#176;C at 12/12/22 00:45:41;
+        Max Outside Temperature: 21.6&#176;C at 08/09/22 15:30:00;
+        Min Inside Temperature: 13.4&#176;C at 11/12/22 07:47:00;
+        Max Inside Temperature: 23.7&#176;C at 22/09/22 17:30:00;
+        Min Barometer: 974.7 mbar at 23/11/22 00:45:03;
+        Max Barometer: 1028.2 mbar at 06/12/22 22:50:02;
+        Max Wind: 101 km/h from 180&#176; at 02/11/22 11:30:00;
+        Rain: 31.54 cm;
+        Max Rain Rate: 164.58 cm/h;
+        Min Wind Chill: -10.1&#176;C at 12/12/22 19:04:01;
+        Max Wind Chill: 21.6&#176;C at 08/09/22 15:30:00;
+        Min Heat Index: -4.2&#176;C at 12/12/22 00:45:41;
+        Max Heat Index: 21.8&#176;C at 08/09/22 15:30:00;
+        Min Dew Point: -5.7&#176;C at 12/12/22 00:45:41;
+        Max Dew Point: 17.8&#176;C at 08/09/22 14:00:00;
+        Min Outside Humidity: 70% at 17/09/22 15:30:00;
+        Max Outside Humidity: 96% at 11/09/22 13:30:00;
+        Min Inside Humidity: 49% at 13/12/22 15:22:01;
+        Max Inside Humidity: 77% at 07/11/22 11:10:00;
+      </description>
+      <pubDate>Fri, 16 Dec 2022 18:30:00 GMT</pubDate>
+      <geo:lat>52.935121</geo:lat>
+      <geo:long>-9.417197</geo:long>
+      <content:encoded><![CDATA[
+      <p>
+      Yearly summary as of 01 Jan 2022<br/>
+        Min Outside Temperature: -4.2&#176;C at 12/12/22 00:45:41<br/>
+        Max Outside Temperature: 21.6&#176;C at 08/09/22 15:30:00<br/>
+        Min Inside Temperature: 13.4&#176;C at 11/12/22 07:47:00<br/>
+        Max Inside Temperature: 23.7&#176;C at 22/09/22 17:30:00<br/>
+        Min Barometer: 974.7 mbar at 23/11/22 00:45:03<br/>
+        Max Barometer: 1028.2 mbar at 06/12/22 22:50:02<br/>
+        Max Wind: 101 km/h from 180&#176; at 02/11/22 11:30:00<br/>
+        Rain: 31.54 cm<br/>
+        Max Rain Rate: 164.58 cm/h<br/>
+        Min Wind Chill: -10.1&#176;C at 12/12/22 19:04:01<br/>
+        Max Wind Chill: 21.6&#176;C at 08/09/22 15:30:00<br/>
+        Min Heat Index: -4.2&#176;C at 12/12/22 00:45:41<br/>
+        Max Heat Index: 21.8&#176;C at 08/09/22 15:30:00<br/>
+        Min Dew Point: -5.7&#176;C at 12/12/22 00:45:41<br/>
+        Max Dew Point: 17.8&#176;C at 08/09/22 14:00:00<br/>
+        Min Outside Humidity: 70% at 17/09/22 15:30:00<br/>
+        Max Outside Humidity: 96% at 11/09/22 13:30:00<br/>
+        Min Inside Humidity: 49% at 13/12/22 15:22:01<br/>
+        Max Inside Humidity: 77% at 07/11/22 11:10:00<br/>
+      </p>
+      ]]></content:encoded>
+    </item>
+
+  </channel>
+</rss>
